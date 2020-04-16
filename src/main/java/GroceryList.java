@@ -5,6 +5,7 @@ public class GroceryList{
 
         for (int i = 0; i < myGroceryList.length; i += 1){
             System.out.println(myGroceryList[i] + " that will cost you: $" + groceryItemPrices[i]);
+
         }
     }
 }
